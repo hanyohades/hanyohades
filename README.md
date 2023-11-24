@@ -11,10 +11,10 @@
 
 </p>
 
-# Hi there and welcome to my GitHub page 👋
-- 👀 I’m interested in gaming 👾, and learning new things 🤯.
-- 🌱 I’m currently learning CODE!!🤮
-- 💞️ I’m looking to collaborate on projects and solve life problems 👊👊.
+# Hi there and welcome to my GitHub page 👋🙋
+- 👀👍 I’m interested in gaming 👾, and learning new things 🤯.
+- ✌️✌️ I’m currently learning CODE!!🤮
+- 🎉 🎉  I’m looking to collaborate on projects and solve life problems 👊👊.
   
 📫 Connect with me:
 <p align="left">
