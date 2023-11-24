@@ -1,4 +1,4 @@
-  <img src="https://usagif.com/wp-content/uploads/gifs/starfall-gif-46.gif" alt="banner" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHU1MjB6NjM3cTVwMWNsYW5tcHY5eDBkdHZyZnN5cTVycjc2MThkOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ig3awOhuuVdNUdWOLE/giphy.gif" alt="banner" />
 
 <h3>Languages:</h3>
 
