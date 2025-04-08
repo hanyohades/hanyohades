@@ -11,7 +11,7 @@
   <img alt="SQL" src="https://img.shields.io/badge/MySQL-FFFF00?style=for-the-badge&logo=mysql&logoColor=black" />
 </p>
 
-# Hi there and welcome to my GitHub page 👋🙋
+# Hi there and welcome to my GitHub page 👋👨🏻‍💻
 - 👀👍 I’m interested in gaming 👾, and learning new things 🤯.
 - ✌️✌️ I’m currently learning CODE!!🤮
 - 🎉 🎉  I’m looking to collaborate on projects and solve life problems 👊👊.
